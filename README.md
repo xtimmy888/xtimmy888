@@ -4,11 +4,13 @@ Introduction:
 
 Building: Data/ML + Cloud-ready projects. Interested in entry-level roles in Data, Analytics, Cloud, or SWE (practical, non-Leetcode heavy).
 
+<!--
 ## Featured Projects
 - **Project 1**
 - **Project 2**
 - **Project 3**
 - **Project 4**
+-->
 
 ## Skills
 Programming Languages: Python, Java, JavaScript, HTML, CSS, SQL, Node.js, React.js  | Data & ML: pandas, NumPy, scikit-learn, PyPortfolioOpt, vectorbt/Backtrader, yfinance, Stooq, Matplotlib, Plotly, basic NLP (sentiment analysis) | Tools & Platforms: Git, GitHub, Jupyter Notebook, SQL databases, Linux, Windows, MacOS, Microsoft Office
