@@ -2,7 +2,7 @@ Introduction:
 
 # Tim — CS + Physics @ MUN (Grad Apr 2026)
 
-Building: Data/ML + Cloud-ready projects. Interested in entry-level roles in Data, Analytics, Cloud, or SWE (practical, non-Leetcode heavy).
+Building: Data/ML + Cloud-ready projects. Interested in entry-level roles in Data, Analytics, Cloud, or SWE.
 
 <!--
 ## Featured Projects
